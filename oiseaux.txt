@@ -10,9 +10,4 @@ Chevalier aboyeur
 Courlis corlieu
 Courlis cendré
 
-<<<<<<< HEAD
 Rossignol
-=======
-Rossignol
-Martinet
->>>>>>> test
